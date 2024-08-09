@@ -1,0 +1,7 @@
+"I have a working AI-powered chat application using Next.js for the frontend and FastAPI for the backend. The project includes user authentication with Google SSO, real-time messaging with WebSockets, and data persistence using PostgreSQL. We're now focusing on optimizing functionality and performance for both frontend and backend.
+
+Before suggesting any changes or additions, please ask to see the relevant code for the component or feature we're discussing. This ensures that any modifications are compatible with the existing implementation.
+
+Our next steps include improving user experience, enhancing performance, and adding advanced features like pagination, search functionality, and file sharing. When addressing these tasks, please consider both frontend and backend implications, and suggest optimizations where applicable.
+
+What specific area or feature should we focus on first to improve the application's functionality and performance?"

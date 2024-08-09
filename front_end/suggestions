@@ -1,0 +1,10 @@
+Conversation summarization: Add a feature that uses the LLM to generate a brief summary of each conversation, which could be displayed in the sidebar or as a tooltip.
+Topic extraction: Automatically extract key topics from each conversation and use these to tag or categorize conversations.
+Export functionality: Allow users to export their conversations in various formats (e.g., PDF, plain text) for easy sharing or record-keeping.
+Custom instructions or context: Allow users to set specific instructions or context for each conversation, which could be sent to the LLM with each message to maintain consistent behavior.
+Conversation forking: Implement a feature to create a new conversation branch from any point in an existing conversation.
+Enhanced message rendering: Improve the display of code snippets, math equations, or other structured content that the LLM might generate.
+Conversation pinning: Allow users to pin important conversations to the top of the list.
+Message reactions: Implement a way for users to react to AI responses, which could be used for feedback or quick bookmarking.
+In-chat commands: Implement special commands that users can type to change the behavior of the AI or perform actions (e.g., "/explain" to ask for a simpler explanation, "/research" to ask the AI to provide sources).
+Conversation templates: Create pre-defined conversation starters for common use cases.
